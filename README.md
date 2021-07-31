@@ -2,18 +2,18 @@
 
 ![itachi](itac_molodoy.gif)
 
-## 🌐 I'm a Front-End Developer !
+## 🌐 Frontend engineer, mostly React !
 
-- 📗 I’m currently learning Next and Gatsby
-- 👯 I’m looking to enter a strong team to develop
-- 🥅 2021 Goals: find right place to flourish
+- 📗 Currently learning Next and Gatsby
+- 👯 I’m looking to enter a friendly team with strong team-lead
+- 🥅 2021 Goals: find right place to learn OOP 
 - ⚡ Fun fact: I love to solve problems and play dota
 
 ### 📝 Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="sultonbekairways.uz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="sultonbekairways | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="sultonbekairways | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -58,6 +58,6 @@
 
 </details>
 
-[website]: https://github.com/sultonbekairways
-[youtube]: https://t.me/sultonbekairways
+[website]: https://sultonbekairways.uz
+[telegram]: https://t.me/sultonbekairways
 [gmail]: mailto:kingsulton45@gmail.com
