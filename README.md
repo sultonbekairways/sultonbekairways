@@ -4,7 +4,7 @@
 
 ## 🌐 Frontend engineer, mostly React !
 
-- 📗 Currently learning Next and Gatsby
+- 📗 Currently learning BackEnd
 - ⚡ Fun fact: I love to solve problems and play dota
 
 ### 📝 Connect with me:
