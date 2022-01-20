@@ -5,8 +5,6 @@
 ## 🌐 Frontend engineer, mostly React !
 
 - 📗 Currently learning Next and Gatsby
-- 👯 I’m looking to enter a friendly team with strong team-lead
-- 🥅 2021 Goals: find right place to learn OOP 
 - ⚡ Fun fact: I love to solve problems and play dota
 
 ### 📝 Connect with me:
