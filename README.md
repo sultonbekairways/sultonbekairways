@@ -1,58 +1,50 @@
-### Hi there, I'm Sultonbek - aka [sultonbekairways][website] 👋
+### Daijoubu boku saikkyou dakara [sultonbekairways][website] 💜
 
-![itachi](itac_molodoy.gif)
+![hisoka](hisoka.gif)
 
-## 🌐 Frontend engineer, mostly React !
-
-- 📗 Currently learning BackEnd
-- ⚡ Fun fact: I love to solve problems and play dota
-
-### 📝 Connect with me:
-
-[<img align="left" alt="sultonbekairways.uz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="sultonbekairways | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="sultonbekairways | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="Sass" src="https://www.codewars.com/users/sultonbekairways/badges/large" />][codewars]
 
 <br />
+## ⚛️ React and more!
 
-### 🔨 Languages and Tools:
+<details>
+  <summary>:zap: Projects</summary>
 
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+- [Concordium NFT](https://bictory.art/)
+- [Crypto Exchange](https://app.bictory.exchange/)
+- [Landing](https://Proweb.uz)
 
-<br />
-<br />
+</details>
+
+<details>
+  <summary>:zap: Pets</summary>
+
+- [Space X flights](https://sultonbekairways-spacex.herokuapp.com/)
+- [3 JS shooting game](https://sultonbekairways.github.io/threejs-game/fps.html)
+
+</details>
 
 ---
 
-<details>
-  <summary>:zap: Recent Real Projects</summary>
+### 🔨 Stack:
 
-  - [Pure JS based project](https://Proweb.uz)
-  - [Small business card webpage](https://Multicake.uz)
-  - [Team based project](https://www.scnsoft.com/)
+<img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
-</details>
+<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<details>
-  <summary>:zap: Recent React Pet Projects</summary>
+<br />
 
-  - [Space X flights SPA in React js and concurrently back in node + graphQl](https://sultonbekairways-spacex.herokuapp.com/)
+### 📝 Contacts:
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="sultonbekairways's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sultonbekairways&show_icons=true&hide_border=true" />
-
-</details>
+[🕸 Website][website]
+[📥 Telegram][telegram]
+[📬 Gmail][gmail]
 
 [website]: https://sultonbekairways.uz
 [telegram]: https://t.me/sultonbekairways
 [gmail]: mailto:kingsulton45@gmail.com
+[codewars]: https://www.codewars.com/users/sultonbekairways
